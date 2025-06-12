@@ -1,6 +1,6 @@
 # I사
 
-## 광범위 무선 통신 (Wild Internet Corporation)
+## 광범위 무선 통신 (Immense Internet Corporation)
 
 ### "가장 빠르게, 누구에게나!"
 
