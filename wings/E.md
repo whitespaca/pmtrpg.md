@@ -1,7 +1,3 @@
-<style>
-  .lime { color: #A3CF62; }
-</style>
-
 # E사
 
 ## Eternal Extract
